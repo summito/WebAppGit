@@ -1,5 +1,5 @@
 <html>
 <body>
-    <?php echo 'Bonjour'; ?>
+    <?php echo 'Test'; ?>
 </body>
 </html>
