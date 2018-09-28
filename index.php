@@ -1,5 +1,5 @@
 <html>
 <body>
-    <?php echo 'Production'; ?>
+    <?php echo 'Developpement'; ?>
 </body>
 </html>
