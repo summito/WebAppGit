@@ -1,5 +1,5 @@
 <html>
 <body>
-    <?php echo 'Summito'; ?>
+    <?php echo 'Bonjour'; ?>
 </body>
 </html>
